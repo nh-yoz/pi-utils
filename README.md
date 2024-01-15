@@ -6,6 +6,11 @@ A bash script to turn _on_ or _off_ the leds on a raspberry pi:
 - Power led: red
 - Activity led: orange
 
+Make sure the file _pi-led-control.sh_ is executable:
+```
+chmod u+x pi-led-control.sh
+```
+
 ### Usage
 ```pi-led-control <on|off>```
 
