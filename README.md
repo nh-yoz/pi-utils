@@ -1,7 +1,7 @@
 # pi-utils
 Small utilities for raspberry pi
 
-## LED-control
+## pi-led-control
 A bash script to turn _on_ or _off_ the leds on a raspberry pi:
 - Power led: red
 - Activity led: orange
